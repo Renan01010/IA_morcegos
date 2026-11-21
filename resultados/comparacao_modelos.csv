@@ -1,0 +1,4 @@
+Modelo;Acuracia;Precisao;Sensibilidade;F1_score;Acuracia_balanceada
+KNN;1.0;1.0;1.0;1.0;1.0
+SVM;1.0;1.0;1.0;1.0;1.0
+Random Forest;0.9994635193133047;1.0;0.95;0.9743589743589743;0.975
